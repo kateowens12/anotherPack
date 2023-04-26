@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "testFramework",
-            url: "https://github.com/kateowens12/testFramework/archive/refs/tags/1.4.1.zip",
-            checksum: "ae3b76f48758d4e7e1a3a3438243706a5395abe3b0ff231d6646845cef389dc2"
+            url: "https://github.com/kateowens12/testFramework/archive/refs/tags/1.4.3.zip",
+            checksum: "c1fb65e6211d7ba579daeef22dbd184d0032ea5f50563e00c87521a98a4956ad"
         )
     ]
 )
